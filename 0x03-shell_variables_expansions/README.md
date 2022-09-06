@@ -16,3 +16,4 @@
 100-decimal_to_hexadecimal writes a script that converts a number from base 10 to base 16. The number in base 10 is stored in the environment variable DECIMAL, and the script should display the number in base 16, followed by a new line.
 101-rot13 writes a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
 102-odd writes a script that prints every other line from the input, starting with the first line.
+103-water_and_stir writes a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result. WATER is in base water, STIR is in base stir, and the result should be in base bestchol
