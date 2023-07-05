@@ -1,3 +1,3 @@
 #!/usr/bin/env ruby
-#Auth: Sangwani P Zyambo
+#Auth: Ayotunde Oluleke
 puts ARGV[0].scan(/hbt+n/).join
